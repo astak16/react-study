@@ -6,6 +6,7 @@
 3. [React 架构介绍](https://github.com/astak16/react-source/issues/2)
 4. [ReactDOM.createRoot 被调用时在做什么](https://github.com/astak16/react-source/issues/5)
 5. [深入探究 React 原生事件的工作原理](https://github.com/astak16/react-source/issues/6)
+6. [getNextLanes 函数是如何找到最高优先级的任务](https://github.com/astak16/react-source/issues/7)
 
 ## 英语概念
 1. [hydrate 意思](https://github.com/astak16/react-source/issues/3#issuecomment-1436762214)
