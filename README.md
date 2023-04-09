@@ -8,6 +8,7 @@
 5. [深入探究 React 原生事件的工作原理](https://github.com/astak16/react-source/issues/6)
 6. [getNextLanes 函数是如何找到最高优先级的任务](https://github.com/astak16/react-source/issues/7)
 7. [剖析 React 任务调度机制：scheduleCallback 实现原理](https://github.com/astak16/react-source/issues/9)
+8. [React Lane 算法：一文详解 8 种 Lane 操作](https://github.com/astak16/react-source/issues/10)
 
 ## 英语概念
 1. [hydrate 意思](https://github.com/astak16/react-source/issues/3#issuecomment-1436762214)
