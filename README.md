@@ -10,6 +10,7 @@
 7. [剖析 React 任务调度机制：scheduleCallback 实现原理](https://github.com/astak16/react-source/issues/9)
 8. [React Lane 算法：一文详解 8 种 Lane 操作](https://github.com/astak16/react-source/issues/10)
 9. [React dom 遍历逻辑](https://github.com/astak16/react-source/issues/12)
+10. [useEffect 返回的函数是怎么执行的](https://github.com/astak16/react-source/issues/13)
 
 ## 英语概念
 1. [hydrate 意思](https://github.com/astak16/react-source/issues/3#issuecomment-1436762214)
