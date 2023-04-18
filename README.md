@@ -11,6 +11,7 @@
 8. [React Lane 算法：一文详解 8 种 Lane 操作](https://github.com/astak16/react-source/issues/10)
 9. [React dom 遍历逻辑](https://github.com/astak16/react-source/issues/12)
 10. [useEffect 返回的函数是怎么执行的](https://github.com/astak16/react-source/issues/13)
+11. [组件卸载时 DOM 树的自动清理机制是怎样的](https://github.com/astak16/react-source/issues/14)
 
 ## 英语概念
 1. [hydrate 意思](https://github.com/astak16/react-source/issues/3#issuecomment-1436762214)
